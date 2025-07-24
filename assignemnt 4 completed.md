@@ -1,13 +1,7 @@
 
-# Data Mining Assignment – Frequent Itemset Analysis
-
-This assignment analyzes a small market basket dataset to identify frequent itemsets and evaluate a given association rule.
-
-## Dataset Used
 File: `transactions_data[1].txt`  
 Each line represents a transaction containing items bought together.
 
----
 
 ## Question 1  
 **Which itemset has the highest frequency for frequent 1-itemset?**  
@@ -43,8 +37,6 @@ Each line represents a transaction containing items bought together.
 **Explanation:** Confidence / Support of consequent = 0.75 / 0.5 = 1.5
 
 ---
-
-## YOUR CODE
 
 ```python
 from collections import Counter
