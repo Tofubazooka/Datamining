@@ -1,9 +1,6 @@
 
 # Programming Assignment 05 – Cluster Analysis
 
-This document contains answers and code for questions based on KMeans, Hierarchical Clustering, and DBSCAN using scikit-learn and SciPy.
-
----
 
 ## KMeans Clustering (k=5)
 
